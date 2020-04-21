@@ -1,6 +1,8 @@
 # GitHub Pages Test
 
-[This file](https://github.com/decoherer/pagetest/edit/master/README.md)
+[decoherer.github.io/pagetest](https://decoherer.github.io/pagetest/)
+
+[this file](https://github.com/decoherer/pagetest/edit/master/README.md)
 
 [index.html](https://github.com/decoherer/pagetest/edit/master/index.html)
 
@@ -16,6 +18,6 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://decoherer.github.io/pagetest/) and ![Image](src)
 ```
 
