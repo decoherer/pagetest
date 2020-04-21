@@ -1,8 +1,8 @@
-## GitHub Pages Test
+# GitHub Pages Test
 
 [This file](https://github.com/decoherer/pagetest/edit/master/README.md)
 
-### Markdown
+[index.html](https://github.com/decoherer/pagetest/edit/master/index.html)
 
 # Header 1
 ## Header 2
